@@ -6,7 +6,9 @@ This is the authors' implementation of [1].
 
 The code is implemented in MATLAB:
   demo1_MUA.m               - a demo script comparing the algorithms (DC1)
+
   demo2_MUA.m               - a demo script comparing the algorithms (DC2)
+
   demo3_MUA.m               - a demo script comparing the algorithms (DC3)
   sort_library_by_angle.m   - sort the signatures in the spectral library
   prune_library.m           - remove correlated signatures from the library
