@@ -4,21 +4,21 @@
 
 This is the authors' implementation of [1].
 
-The code is implemented in MATLAB:
-  demo1_MUA.m               - a demo script comparing the algorithms (DC1)  
-  demo2_MUA.m               - a demo script comparing the algorithms (DC2)  
-  demo3_MUA.m               - a demo script comparing the algorithms (DC3)  
-  sort_library_by_angle.m   - sort the signatures in the spectral library  
-  prune_library.m           - remove correlated signatures from the library  
-  tight_subplot.m           - more efficient subplot  
-  soft.m                    - soft thresholding operator function  
-  sunsal.m                  - the SUnSAL algorithm  
-  sunsal_tv.m               - the SUnSAL-TV algorithm  
-  sunsal_tv_lw_sp.m         - the S2WSU algorithm  
-  sunsal_spreg.m            - sparse unmixing at the fine spatial scale  
-  ./vlfeat-0.9/             - the VLFeat toolbox (used for the SLIC superpixels alg.)  
-  ./HSI_segmentation/       - Binary partition tree HSI segmentation algorithm  
-  README                    - this file  
+The code is implemented in MATLAB and includes:  
+-  demo1_MUA.m               - a demo script comparing the algorithms (DC1)  
+-  demo2_MUA.m               - a demo script comparing the algorithms (DC2)  
+-  demo3_MUA.m               - a demo script comparing the algorithms (DC3)  
+-  sort_library_by_angle.m   - sort the signatures in the spectral library  
+-  prune_library.m           - remove correlated signatures from the library  
+-  tight_subplot.m           - more efficient subplot  
+-  soft.m                    - soft thresholding operator function  
+-  sunsal.m                  - the SUnSAL algorithm  
+-  sunsal_tv.m               - the SUnSAL-TV algorithm  
+-  sunsal_tv_lw_sp.m         - the S2WSU algorithm  
+-  sunsal_spreg.m            - sparse unmixing at the fine spatial scale  
+-  ./vlfeat-0.9/             - the VLFeat toolbox (used for the SLIC superpixels alg.)  
+-  ./HSI_segmentation/       - Binary partition tree HSI segmentation algorithm  
+-  README                    - this file  
 
 
 
