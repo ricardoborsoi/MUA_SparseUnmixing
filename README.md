@@ -8,6 +8,9 @@ The code is implemented in MATLAB and includes:
 -  demo1_MUA.m               - a demo script comparing the algorithms (DC1)  
 -  demo2_MUA.m               - a demo script comparing the algorithms (DC2)  
 -  demo3_MUA.m               - a demo script comparing the algorithms (DC3)  
+-  demo4_supp_MUA.m          - demo script of the supplemental material  
+-  demo5_supp_MUA.m          - demo script of the supplemental material  
+-  demo6_supp_MUA.m          - demo script of the supplemental material  
 -  sort_library_by_angle.m   - sort the signatures in the spectral library  
 -  prune_library.m           - remove correlated signatures from the library  
 -  tight_subplot.m           - more efficient subplot  
@@ -16,6 +19,7 @@ The code is implemented in MATLAB and includes:
 -  sunsal_tv.m               - the SUnSAL-TV algorithm  
 -  sunsal_tv_lw_sp.m         - the S2WSU algorithm  
 -  sunsal_spreg.m            - sparse unmixing at the fine spatial scale  
+-  ./real_data/              - real images and spectral libraries used in the supplemental experiments  
 -  ./vlfeat-0.9/             - the VLFeat toolbox (used for the SLIC superpixels alg.)  
 -  ./HSI_segmentation/       - Binary partition tree HSI segmentation algorithm  
 -  README                    - this file  
