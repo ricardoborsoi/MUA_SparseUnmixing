@@ -39,6 +39,8 @@ publication:
 ## INSTALLING & RUNNING:
 Just start MATLAB and run demo1_MUA.m, demo2_MUA.m or demo3_MUA.m.
 
+For the demos in the supplemental material, just run demo4_supp_MUA.m, demo5_supp_MUA.m, or demo6_supp_MUA.m. The data (spectral libraries and images) for these examples is included in the "real_data" folder.
+
 The Cuprite HS image is not included, and should be downloaded from http://www.lx.it.pt/~bioucas/code.htm.
 
 
