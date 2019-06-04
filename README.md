@@ -43,6 +43,9 @@ For the demos in the supplemental material, just run demo4_supp_MUA.m, demo5_sup
 
 The Cuprite HS image is not included, and should be downloaded from http://www.lx.it.pt/~bioucas/code.htm.
 
+# Important Notice About VLFeat
+If you encounter problems with the "vl_slic" or "vl_setup" functions, try to download the latest version of the toolbox at http://www.vlfeat.org/install-matlab.html. 
+
 
 ## NOTES:
 1.  The SUnSAL and SUnSAL-TV algorithms are provided by Jose Bioucas Dias 
